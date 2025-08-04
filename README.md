@@ -12,7 +12,7 @@
 ## 2. 一键运行
 ```bash
 # 克隆
-git clone https://github.com/YOUR_USER/TradeInfoDecrypter.git
+git clone https://github.com/zhang406493160gmail/TradeInfoDecrypter.git
 cd TradeInfoDecrypter
 
 
